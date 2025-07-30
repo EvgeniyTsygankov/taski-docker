@@ -13,7 +13,7 @@ ALLOWED_HOSTS = [
     'localhost',
     '51.250.100.226',
     'myfirstdomain.servehttp.com'
-    ]
+]
 
 
 # Application definition
